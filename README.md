@@ -1,4 +1,4 @@
-# 📊 Sales Analysis using Python
+# Sales Analysis using Python
 
 ## Project Overview
 
